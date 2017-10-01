@@ -4,6 +4,7 @@
 #
 #   Go PING! whenever someone makes a contact!
 #
+#   Mark Jessop <vk5qi@rfhead.net> 2017-09   
 #
 from n1mm_xml import *
 import subprocess

@@ -5,6 +5,7 @@
 #	Decode N1MM Broadcast XML data
 #	Refer: http://n1mm.hamdocs.com/tiki-index.php?page=UDP+Broadcasts
 #
+#   Mark Jessop <vk5qi@rfhead.net> 2017-09  
 #
 import xml.etree.ElementTree as ET
 
