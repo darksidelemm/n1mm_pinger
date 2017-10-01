@@ -2,6 +2,9 @@
 #	
 #	SpeakerPhat VU Display - WiFI Signal Meter
 #	Used to check wifi range when setting up for the OCDX Amateur Radio contest.
+#	This script reads the wifi link quality from iwconfig, and displays the level
+#	on the speaker-phat V/U display LEDs.
+#
 #	Doesn't really belong in this repo, but it's running on the same device, so whatever :-)
 #
 #   Mark Jessop <vk5qi@rfhead.net> 2017-09  
